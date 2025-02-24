@@ -1,0 +1,17 @@
+*~
+*#
+
+*.o
+*.so
+a.out
+*#
+*.a
+*.sa
+*.txt
+vgcore*
+coding*
+.vscode
+secured
+test.c
+main.c
+*copy*
